@@ -23,4 +23,3 @@ def job_rec_by_type():
     model = Job_recog()
     json_output = model.runByType(type_pars)
     return json.dumps(json_output)
-app.run()
