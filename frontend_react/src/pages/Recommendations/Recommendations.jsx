@@ -26,16 +26,18 @@ const Recommendations = () => {
 			if (isPersonalityType) {
 				const type = getCardTitlebyId(options);
 				const response = await axios.post(
-					`http://127.0.0.1:5000/get_jobs_by_type?type=${encodeURIComponent(
-						type
-					)}`
+					`${
+						process.env.REACT_APP_API_URL
+					}/get_jobs_by_type?type=${encodeURIComponent(type)}`
 				);
 
 				const data = response.data;
 				setRecommendations(data);
 			} else {
 				const response = await axios.post(
-					`http://127.0.0.1:5000/get_jobs?color=${encodeURIComponent(
+					`${
+						process.env.REACT_APP_API_URL
+					}/get_jobs?color=${encodeURIComponent(
 						color
 					)}&music=${encodeURIComponent(music)}`
 				);
