@@ -1,0 +1,26 @@
+.recommendations {
+	margin: 0 8.2rem;
+	@media screen and (max-width: 1200px) {
+		margin: 0 3rem;
+	}
+	@media screen and (max-width: 500px) {
+		margin: 0 0.5rem;
+	}
+}
+.recommendations__loading {
+	display: flex;
+	height: 90vh;
+	justify-content: center;
+	align-items: center;
+}
+.recommendations__loading-image {
+	animation: spin 1s infinite linear;
+	@keyframes spin {
+		from {
+			transform: rotate(0deg);
+		}
+		to {
+			transform: rotate(360deg);
+		}
+	}
+}

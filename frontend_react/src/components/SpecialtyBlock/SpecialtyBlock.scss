@@ -1,0 +1,32 @@
+.specialtyBlock {
+	display: flex;
+	margin: 2.5rem 0;
+
+	img {
+		border-radius: 27px;
+		min-width: 300px;
+		height: 250px;
+		object-fit: contain;
+	}
+
+	@media screen and (max-width: 1200px) {
+		flex-direction: column;
+		img {
+			margin: auto;
+		}
+	}
+}
+
+.specialtyBlock__information {
+	margin: 1rem 0 1rem 2rem;
+	h3 {
+		font-weight: 600;
+
+		font-size: 1.5rem;
+		margin-bottom: 1rem;
+	}
+	p {
+		font-size: 1.1rem;
+		margin-bottom: 1rem;
+	}
+}

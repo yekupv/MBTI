@@ -1,0 +1,19 @@
+.option {
+	cursor: pointer;
+	font-weight: bold;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin: 0.2rem 0;
+
+	padding: 0.2rem 0.5rem;
+	border-radius: 14px;
+
+	span {
+		margin-left: 5px;
+	}
+}
+
+.activeOption {
+	background-color: var(--primary-color);
+}

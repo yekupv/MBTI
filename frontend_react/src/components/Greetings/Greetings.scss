@@ -1,0 +1,80 @@
+.greetings {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	background-color: var(--primary-color);
+	border-radius: 97px;
+	width: 33%;
+	min-width: 550px;
+	padding: 1rem 2rem;
+	height: 40vh;
+	min-height: 300px;
+	margin: 0;
+
+	h1 {
+		font-size: 3rem;
+		font-weight: bold;
+		margin-bottom: 2.5rem;
+	}
+	h3 {
+		font-size: 1.3rem;
+	}
+	@media screen and (max-width: 1300px) {
+		margin-top: 200px;
+		min-width: 500px;
+		h1 {
+			font-size: 2.5rem;
+		}
+		h3 {
+			font-size: 1.2rem;
+		}
+	}
+	@media screen and (max-width: 600px) {
+		margin-top: 200px;
+		min-width: 500px;
+		h1 {
+			font-size: 2.5rem;
+		}
+		h3 {
+			font-size: 1.2rem;
+		}
+	}
+}
+
+.greetings__buttons {
+	margin-top: 2rem;
+	width: 80%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+
+	button {
+		padding: 1.3rem;
+		font-size: 1.2rem;
+	}
+	a {
+		cursor: pointer;
+
+		color: var(--text-color);
+		font-size: 1.2rem;
+		text-decoration: none;
+	}
+
+	.greetings__buttons--primary {
+	}
+	.greetings__buttons--secondary {
+		transition: all 0.3s ease-in-out;
+		font-weight: bold;
+		&:hover {
+			font-size: 1.23rem;
+		}
+	}
+
+	@media screen and (max-width: 1300px) {
+		button {
+			padding: 1.2rem;
+			font-size: 1.1rem;
+		}
+	}
+}

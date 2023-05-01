@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Jost:wght@400;600;700&display=swap");
+
+:root {
+	--font-base: "Jost", sans-serif;
+
+	--primary-color: #9b99f1;
+	--background-color: linear-gradient(
+		180deg,
+		rgba(193, 224, 247, 0.6) 0%,
+		rgba(193, 224, 247, 0.3) 100%
+	);
+	--text-color: #524a65;
+	--button-color: #e171b8;
+	--analyst-color: #e7dfea;
+	--diplomats-color: #e7dfea;
+	--sentinels-color: #d9eaf0;
+	--explorers-color: #f9eed7;
+}
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+	scroll-behavior: smooth;
+}
+body {
+	min-height: 100vh;
+	background-image: var(--background-color);
+	background-repeat: no-repeat;
+}

@@ -1,0 +1,32 @@
+.main {
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	overflow: hidden;
+	z-index: 1;
+
+	.vector-1 {
+		position: absolute;
+		z-index: -1;
+		left: 55%;
+	}
+	.vector-2 {
+		position: absolute;
+		z-index: -1;
+		right: 65%;
+	}
+
+	@media screen and (max-width: 1300px) {
+		margin: 0;
+		.image {
+			display: none;
+		}
+		.vector-1 {
+			display: none;
+		}
+		.vector-2 {
+			display: none;
+		}
+	}
+}

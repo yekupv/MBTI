@@ -1,0 +1,492 @@
+,name,personality_type,I,N,T,P,F,J,S,E
+0,Bass House,ENTP,-1,100,83,100,-1,-1,-1,83
+1,Hardwave,INTP,100,50,50,100,-1,-1,-1,-1
+2,Polyriddim,ENFP,-1,100,-1,100,100,-1,-1,100
+3,Bubblegum Dance,ESFP,-1,-1,-1,100,100,-1,100,100
+4,Symphonic Black Metal,INTJ,100,100,100,-1,-1,83,-1,-1
+5,Electronicore,INTP,100,100,100,100,-1,-1,-1,-1
+6,Yé-yé,ISFP,100,-1,-1,100,100,-1,100,-1
+7,Baggy,ENFP,-1,100,-1,100,100,-1,-1,100
+8,Psychedelic Pop,ENFP,-1,100,-1,100,100,-1,-1,100
+9,Steampunk,ENTP,-1,100,67,83,-1,-1,-1,83
+10,Tecnobrega,ESFP,-1,-1,-1,100,100,-1,100,100
+11,Candombe,ISFJ,100,-1,-1,-1,100,100,100,-1
+12,Chamamé,ESFJ,-1,-1,-1,-1,100,100,100,50
+13,Cuarteto,ESFP,-1,-1,-1,100,100,-1,88,100
+14,Hardcore Breaks,ENTP,-1,100,100,100,-1,-1,-1,100
+15,Horror Synth,INTJ,100,100,100,-1,-1,100,-1,-1
+16,Porno Grind,ESTP,-1,-1,100,100,-1,-1,100,100
+17,Unblack Metal,INFJ,100,100,-1,-1,100,100,-1,-1
+18,Post-Industrial,INFJ,100,100,-1,-1,100,100,-1,-1
+19,Synth Punk,ENTP,-1,100,100,100,-1,-1,-1,100
+20,Fado,INFP,100,33,-1,100,67,-1,-1,-1
+21,Polka,ENFP,-1,67,-1,67,67,-1,-1,67
+22,Rap Battle,ENTP,-1,89,100,100,-1,-1,-1,100
+23,Permanent Wave,ISTP,100,-1,100,100,-1,-1,100,-1
+24,Black MIDI,INTP,100,100,100,100,-1,-1,-1,-1
+25,Freak Folk,ENFP,-1,100,-1,100,100,-1,-1,100
+26,Electroacoustic music,INTP,100,100,100,100,-1,-1,-1,-1
+27,2 Tone,ISFP,100,-1,-1,100,100,-1,75,-1
+28,Electro House,INTP,80,100,90,100,-1,-1,-1,-1
+29,Japanese Jazz Fusion,ENFP,-1,100,-1,100,100,-1,-1,100
+30,Power Noise,INTJ,100,100,100,-1,-1,100,-1,-1
+31,Pop Rap,ESTP,-1,-1,50,100,-1,-1,88,100
+32,Lowercase,INTP,100,100,100,100,-1,-1,-1,-1
+33,Alternative Dance,ENFP,-1,100,-1,100,75,-1,-1,100
+34,Freeform Hardcore,ENTP,-1,100,100,100,-1,-1,-1,100
+35,Cowpunk,ENTP,-1,100,75,100,-1,-1,-1,100
+36,EAI,INTP,100,100,100,100,-1,-1,-1,-1
+37,Raptor House,ESFP,-1,-1,-1,100,100,-1,100,100
+38,Proto-punk,ISTP,100,-1,100,100,-1,-1,100,-1
+39,Boogie-woogie,ENFJ,-1,100,-1,-1,100,100,-1,100
+40,Thrashcore,ESTP,-1,-1,100,100,-1,-1,100,100
+41,Hypertone,INTP,75,75,100,100,-1,-1,-1,-1
+42,Celtic punk,ENTP,-1,100,100,100,-1,-1,-1,100
+43,New rave,ENFP,-1,100,-1,100,100,-1,-1,100
+44,Freakbeat,ISFP,100,-1,-1,100,100,-1,100,-1
+45,Anti-folk,INFP,100,83,-1,100,67,-1,-1,-1
+46,Yacht rock,ISFP,100,-1,-1,100,100,-1,100,-1
+47,Motown (music style),ENFP,-1,100,-1,100,100,-1,-1,100
+48,Hip hop soul,ISFP,75,-1,-1,100,100,-1,100,-1
+49,Gypsy punk,ENTP,-1,100,100,100,-1,-1,-1,100
+50,West Coast hip hop,ESTP,-1,-1,100,100,-1,-1,100,100
+51,Crossover thrash,ENTP,-1,80,100,100,-1,-1,-1,100
+52,Garage punk,ISTP,80,-1,70,100,-1,-1,100,-1
+53,Truck-driving country,ISTP,100,-1,100,100,-1,-1,100,-1
+54,Ragga (Raggamuffin),ENFJ,-1,100,-1,-1,100,67,-1,100
+55,Rocksteady,ESFP,-1,-1,-1,100,100,-1,100,100
+56,Hard bop,INTP,100,100,100,100,-1,-1,-1,-1
+57,Samba-jazz,ENTP,-1,67,67,100,-1,-1,-1,33
+58,Rumba,ESFP,-1,-1,-1,100,100,-1,100,100
+59,Forró,ESFP,-1,-1,-1,100,100,-1,100,100
+60,Frevo,ENFP,-1,50,-1,100,100,-1,-1,100
+61,Maracatu,ENFJ,-1,100,-1,-1,100,100,-1,100
+62,Chillstep,ISFP,100,-1,-1,100,80,-1,60,-1
+63,Showtunes,ENFP,-1,75,-1,100,100,-1,-1,100
+64,Synthpunk,ENTP,-1,100,100,100,-1,-1,-1,100
+65,Chamber Pop,ENTP,-1,50,50,50,-1,-1,-1,50
+66,Power Pop,INFP,57,86,-1,100,100,-1,-1,-1
+67,Hexd (SoundCloud Scene),INTP,100,100,75,100,-1,-1,-1,-1
+68,Jungle Terror,ISTP,100,-1,100,100,-1,-1,100,-1
+69,Frenchcore,ENTP,-1,100,50,100,-1,-1,-1,83
+70,Gothic Country,INFP,100,100,-1,100,100,-1,-1,-1
+71,Gamelan,ISTP,100,-1,67,100,-1,-1,67,-1
+72,Canción melódica,ESFJ,-1,-1,-1,-1,100,100,100,100
+73,Dub,ENFP,-1,100,-1,100,67,-1,-1,67
+74,Calypso,ESFP,-1,-1,-1,100,100,-1,67,100
+75,UK Garage,ENTP,-1,67,67,100,-1,-1,-1,67
+76,Future Riddim,ENFP,-1,100,-1,100,100,-1,-1,80
+77,Makina,ENFP,-1,100,-1,100,100,-1,-1,100
+78,Adult Contemporary,ISFJ,75,-1,-1,-1,100,100,100,-1
+79,Complextro,ENTP,-1,100,100,100,-1,-1,-1,75
+80,Post-Horrorcore,INTP,100,100,100,100,-1,-1,-1,-1
+81,Joropo,ESFP,-1,-1,-1,75,100,-1,75,100
+82,Terrorcore,ENTP,-1,100,100,83,-1,-1,-1,100
+83,Suomisaundi,INTP,100,100,100,100,-1,-1,-1,-1
+84,Schranz,ISTP,100,-1,100,100,-1,-1,100,-1
+85,Galant,ISFJ,100,-1,-1,-1,100,100,100,-1
+86,Minimalism,INTP,100,100,91,82,-1,-1,-1,-1
+87,Ragtime,ENTP,-1,100,100,100,-1,-1,-1,100
+88,Impressionism,ISFJ,100,-1,-1,-1,100,50,100,-1
+89,Field Recordings,INTP,100,83,100,83,-1,-1,-1,-1
+90,Oi!,ESTP,-1,-1,100,80,-1,-1,100,100
+91,Avant-punk,INTP,90,100,100,90,-1,-1,-1,-1
+92,Funk Metal,ENTP,-1,100,100,100,-1,-1,-1,100
+93,World Music,ESFP,-1,-1,-1,100,100,-1,100,100
+94,Electropop,ESFP,-1,-1,-1,83,83,-1,83,83
+95,Psycore,ENTP,-1,100,100,67,-1,-1,-1,100
+96,Xote,ESFJ,-1,-1,-1,-1,100,50,100,75
+97,Deathgrind,ISTP,100,-1,100,100,-1,-1,100,-1
+98,EBSM,INTJ,100,50,100,-1,-1,50,-1,-1
+99,Extratone,ISTP,75,-1,100,75,-1,-1,100,-1
+100,Neurofunk,ISTP,89,-1,89,78,-1,-1,56,-1
+101,Signalwave,INTP,100,100,100,100,-1,-1,-1,-1
+102,New Jack Swing,ESFP,-1,-1,-1,100,100,-1,100,100
+103,Heartland,INFJ,100,100,-1,-1,100,100,-1,-1
+104,Post-Britpop,ISFP,100,-1,-1,100,100,-1,100,-1
+105,Schlager,ESTJ,-1,-1,62,-1,-1,100,88,62
+106,Skweee,INTP,100,100,100,100,-1,-1,-1,-1
+107,Folktronica,INFP,100,100,-1,100,100,-1,-1,-1
+108,Surf,ESFP,-1,-1,-1,100,83,-1,58,92
+109,Gabber,ENTP,-1,92,92,100,-1,-1,-1,75
+110,Symphonic Rock,INFJ,100,100,-1,-1,100,100,-1,-1
+111,Neue Deutsche Härte,ENTP,-1,67,67,89,-1,-1,-1,56
+112,Gregorian Chant,INFJ,76,76,-1,-1,76,82,-1,-1
+113,Viking Metal,ENTJ,-1,89,89,-1,-1,79,-1,63
+114,Cybergrind,ENTP,-1,100,100,100,-1,-1,-1,86
+115,Neoclassical Metal,INTJ,71,100,79,-1,-1,93,-1,-1
+116,Pirate Metal,ENTP,-1,100,100,100,-1,-1,-1,100
+117,Rap metal,ESTP,-1,-1,86,86,-1,-1,86,86
+118,Bolero,ISFP,100,-1,-1,75,100,-1,100,-1
+119,Orchestral Pop,ENFJ,-1,100,-1,-1,100,100,-1,88
+120,Lounge,ISFJ,83,-1,-1,-1,100,83,83,-1
+121,Gothabilly,ENTP,-1,100,75,100,-1,-1,-1,100
+122,Bluegrass,ESFJ,-1,-1,-1,-1,50,80,100,60
+123,Retro Music,ISFJ,90,-1,-1,-1,90,100,100,-1
+124,Funky House,ESFP,-1,-1,-1,100,100,-1,75,75
+125,Grime,ISTP,70,-1,90,100,-1,-1,100,-1
+126,Blackgaze,INFP,100,96,-1,78,93,-1,-1,-1
+127,Rock In Opposition (RIO),INTP,90,100,100,100,-1,-1,-1,-1
+128,Bachata,ESFP,-1,-1,-1,95,100,-1,100,85
+129,Jump Blues,ESTP,-1,-1,100,100,-1,-1,100,100
+130,Swing,ESFP,-1,-1,-1,80,100,-1,73,100
+131,"Indian pop (I-pop, Indi-pop)",ENTP,-1,83,67,83,-1,-1,-1,100
+132,Bhangra,ESFJ,-1,-1,-1,-1,70,50,60,90
+133,Minimal Techno,INTP,93,100,100,93,-1,-1,-1,-1
+134,Microhouse,INTP,92,100,100,85,-1,-1,-1,-1
+135,Electro,INTP,96,100,96,96,-1,-1,-1,-1
+136,Chill-out,INFP,96,92,-1,88,96,-1,-1,-1
+137,Hymn,ISFJ,78,-1,-1,-1,78,94,83,-1
+138,Soul,ISFP,88,-1,-1,88,100,-1,83,-1
+139,Psychobilly,ENTP,-1,100,93,93,-1,-1,-1,100
+140,Salsa,ESFP,-1,-1,-1,83,94,-1,89,89
+141,Progressive Pop,ENFP,-1,100,-1,100,100,-1,-1,100
+142,Cantopop,ESFJ,-1,-1,-1,-1,100,83,83,83
+143,Mandopop,ESFJ,-1,-1,-1,-1,100,100,100,100
+144,Dark Wave,INFP,100,97,-1,66,77,-1,-1,-1
+145,Rock n' Roll and Rockabilly,ESTP,-1,-1,80,95,-1,-1,95,100
+146,Disco,ESFP,-1,-1,-1,96,96,-1,88,100
+147,Speed Metal,ESTP,-1,-1,100,100,-1,-1,100,59
+148,B minor,ISFP,100,-1,-1,100,100,-1,100,-1
+149,E minor,ESTJ,-1,-1,100,-1,-1,100,100,100
+150,Reggaestep,ISFP,100,-1,-1,100,67,-1,100,-1
+151,Heavy Psych,ESFP,-1,-1,-1,100,100,-1,100,100
+152,Tropical House,ESFP,-1,-1,-1,100,100,-1,100,100
+153,Neo-Psychedelia,INFJ,64,93,-1,-1,93,64,-1,-1
+154,Serialism,INTP,100,100,100,100,-1,-1,-1,-1
+155,Klezmer,INTJ,100,100,100,-1,-1,100,-1,-1
+156,Enka,INTJ,100,100,100,-1,-1,100,-1,-1
+157,Post-Trance,INFP,100,100,-1,100,100,-1,-1,-1
+158,Ambient Black Metal,INTJ,100,100,73,-1,-1,100,-1,-1
+159,Noise Pop,ISFP,100,-1,-1,100,100,-1,100,-1
+160,Cold Wave,INTJ,100,93,100,-1,-1,64,-1,-1
+161,Aggrotech,INTJ,89,100,100,-1,-1,100,-1,-1
+162,Technical Thrash Metal,ISTP,100,-1,100,100,-1,-1,100,-1
+163,Ritual Ambient,INTJ,100,100,100,-1,-1,100,-1,-1
+164,Onkyokei,INTP,100,100,100,100,-1,-1,-1,-1
+165,Kawaii Metal,ENFP,-1,75,-1,75,100,-1,-1,88
+166,Afro-Cuban jazz,ENFJ,-1,100,-1,-1,100,100,-1,100
+167,East Coast hip hop,ISTP,100,-1,100,100,-1,-1,100,-1
+168,Outlaw Country,ESTP,-1,-1,100,100,-1,-1,100,70
+169,Smooth jazz,ISFP,100,-1,-1,100,100,-1,100,-1
+170,Acid rock,ENTP,-1,100,89,100,-1,-1,-1,100
+171,Choro (Chorinho),INFJ,75,100,-1,-1,100,100,-1,-1
+172,Samba rock,ENFP,-1,100,-1,100,100,-1,-1,100
+173,Deathdream,INFP,100,100,-1,100,100,-1,-1,-1
+174,Shitcore,ENTP,-1,90,90,100,-1,-1,-1,100
+175,Minimal Wave,INTP,100,100,100,100,-1,-1,-1,-1
+176,Powerviolence,ESTP,-1,-1,100,100,-1,-1,67,83
+177,Hi-NRG,ESFP,-1,-1,-1,100,100,-1,67,100
+178,Volksmusik,ISTJ,75,-1,75,-1,-1,100,100,-1
+179,Sasscore,ENFP,-1,100,-1,100,83,-1,-1,100
+180,Electroclash,ISFP,60,-1,-1,100,80,-1,80,-1
+181,Dreampunk,ENFP,-1,100,-1,100,67,-1,-1,100
+182,New Romantic,ENFP,-1,100,-1,100,100,-1,-1,100
+183,Psybient,INTP,100,100,83,83,-1,-1,-1,-1
+184,Blues Rock,ISTP,100,-1,57,100,-1,-1,71,-1
+185,Glitch Hop,INTP,73,100,73,100,-1,-1,-1,-1
+186,Miami Bass,ENFJ,-1,50,-1,-1,100,100,-1,100
+187,Acid House,ENTP,-1,93,93,100,-1,-1,-1,80
+188,Melodic Dubstep,INFJ,90,100,-1,-1,90,80,-1,-1
+189,Madchester,ENFP,-1,100,-1,100,100,-1,-1,100
+190,Big Beat,ENTP,-1,80,70,100,-1,-1,-1,80
+191,Doo-wop,ESFJ,-1,-1,-1,-1,100,75,100,88
+192,MPB,INFJ,90,90,-1,-1,90,60,-1,-1
+193,Electronic Rock,ENTP,-1,100,93,100,-1,-1,-1,86
+194,Avant-Garde Metal,ENTP,-1,97,97,90,-1,-1,-1,59
+195,Trap (EDM),ESTP,-1,-1,60,100,-1,-1,100,80
+196,Emotive Hardcore,ISFP,100,-1,-1,100,100,-1,80,-1
+197,Death Rock,INFP,93,71,-1,86,50,-1,-1,-1
+198,Musique concrète,INTP,94,100,100,89,-1,-1,-1,-1
+199,Merengue,ESFP,-1,-1,-1,100,100,-1,89,100
+200,Groove Metal,ISTP,100,-1,100,86,-1,-1,86,-1
+201,Tango,ISFP,94,-1,-1,65,82,-1,65,-1
+202,Funk Rock,ENTP,-1,96,77,100,-1,-1,-1,96
+203,Reggae,ISFP,94,-1,-1,100,97,-1,81,-1
+204,Space Ambient,INTJ,100,90,70,-1,-1,90,-1,-1
+205,Post-Metal,INFJ,100,100,-1,-1,100,100,-1,-1
+206,Nueva Trova,ENFP,-1,100,-1,50,100,-1,-1,50
+207,Dark Cabaret,ENTP,-1,100,80,80,-1,-1,-1,70
+208,Liquid Drum and Bass,ISFP,100,-1,-1,88,62,-1,50,-1
+209,Rock Nacional,ISFP,100,-1,-1,100,100,-1,100,-1
+210,Pop-Punk 2010's Wave,ENTP,-1,100,78,100,-1,-1,-1,78
+211,Danger Music,ENTP,-1,100,100,100,-1,-1,-1,100
+212,PC Music,ENTP,-1,100,100,100,-1,-1,-1,100
+213,Corrido (Ranchera),ESFP,-1,-1,-1,100,60,-1,100,70
+214,Skate punk (skatecore),ISFP,80,-1,-1,100,90,-1,90,-1
+215,Digital Hardcore,INTP,100,54,100,100,-1,-1,-1,-1
+216,Folk Punk,INTP,93,67,60,93,-1,-1,-1,-1
+217,Gorenoise,INTP,89,100,100,100,-1,-1,-1,-1
+218,Forest Psy,ISTP,100,-1,100,100,-1,-1,67,-1
+219,Neoperreo,ESTP,-1,-1,100,100,-1,-1,100,100
+220,Hardvapour,ENTP,-1,100,100,100,-1,-1,-1,100
+221,Cloud Rap,ISFP,85,-1,-1,100,85,-1,77,-1
+222,Dance Punk,ENFP,-1,78,-1,89,89,-1,-1,89
+223,Dark Psytrance,INTJ,70,100,96,-1,-1,65,-1,-1
+224,Post-Grunge,ISFP,75,-1,-1,100,88,-1,100,-1
+225,Glitch Pop,INTP,100,100,96,96,-1,-1,-1,-1
+226,Drone Music,INTP,96,100,100,68,-1,-1,-1,-1
+227,Glitch,INTP,88,100,85,94,-1,-1,-1,-1
+228,J-Metal,ENFP,-1,92,-1,96,71,-1,-1,96
+229,Industrial Rock,INTJ,71,96,94,-1,-1,69,-1,-1
+230,House,ESFP,-1,-1,-1,94,74,-1,84,87
+231,Neofolk,INFJ,97,93,-1,-1,90,97,-1,-1
+232,Southern Rock,ISTP,82,-1,76,94,-1,-1,94,-1
+233,Russian Rock,ISTP,100,-1,64,71,-1,-1,50,-1
+234,Sadcore,INFP,100,100,-1,100,100,-1,-1,-1
+235,Cumbia,ESFP,-1,-1,-1,100,100,-1,73,100
+236,Post-punk revival,INTP,68,100,100,100,-1,-1,-1,-1
+237,Jazz Fusion,ENTP,-1,100,90,80,-1,-1,-1,90
+238,Catholic Psychedelic Synth Folk,ISFP,100,-1,-1,100,100,-1,100,-1
+239,Shibuya Kei,ENFP,-1,83,-1,92,75,-1,-1,67
+240,Art Punk,INFP,80,90,-1,100,80,-1,-1,-1
+241,Free Jazz,ENTP,-1,100,92,100,-1,-1,-1,75
+242,Downtempo (Chill-Out Music),ISFP,100,-1,-1,85,77,-1,46,-1
+243,Hypnagogic pop,INFP,77,100,-1,100,100,-1,-1,-1
+244,Glam Rock,ESFP,-1,-1,-1,94,62,-1,88,85
+245,Horror Punk,ISTP,80,-1,85,90,-1,-1,90,-1
+246,Future Bass,ENFP,-1,62,-1,97,100,-1,-1,55
+247,Electronica,ENFP,-1,90,-1,90,86,-1,-1,57
+248,Afrobeat,ESFP,-1,-1,-1,90,90,-1,85,100
+249,Artcore,INFP,97,97,-1,90,80,-1,-1,-1
+250,Latin Pop,ESFP,-1,-1,-1,100,92,-1,92,96
+251,New Age,INFJ,92,97,-1,-1,90,87,-1,-1
+252,Traditional Pop,ESTJ,-1,-1,65,-1,-1,96,92,73
+253,Noise Rock,INTP,86,94,94,100,-1,-1,-1,-1
+254,Goregrind,ESTP,-1,-1,75,100,-1,-1,75,75
+255,Lofi HipHop,INFP,100,52,-1,90,81,-1,-1,-1
+256,Manele (Gypsy Music),ESFP,-1,-1,-1,71,86,-1,86,86
+257,Daycore,INTP,100,100,75,79,-1,-1,-1,-1
+258,Abstract Hip Hop,INTP,75,100,96,100,-1,-1,-1,-1
+259,Dangdut,ESFP,-1,-1,-1,100,100,-1,100,100
+260,Classical Crossover,ENTJ,-1,100,100,-1,-1,100,-1,100
+261,Glam Metal,ESFP,-1,-1,-1,94,83,-1,100,100
+262,Italo Disco,ENFP,-1,80,-1,100,100,-1,-1,100
+263,Soft Rock,ISFJ,100,-1,-1,-1,84,74,74,-1
+264,Slowcore,INFP,100,100,-1,95,100,-1,-1,-1
+265,Stoner Metal,INTP,100,71,92,95,-1,-1,-1,-1
+266,Garage Rock,ISTP,89,-1,85,100,-1,-1,81,-1
+267,Jungle Music,ENTP,-1,100,100,100,-1,-1,-1,86
+268,Krautrock,INTP,90,100,100,87,-1,-1,-1,-1
+269,Hard Rock,ESTP,-1,-1,87,89,-1,-1,84,73
+270,Neoclassical,INTP,100,100,67,67,-1,-1,-1,-1
+271,Death Industrial,INTJ,100,83,100,-1,-1,67,-1,-1
+272,Emo rap,ISFP,100,-1,-1,93,89,-1,89,-1
+273,Riddim,ENTP,-1,91,100,82,-1,-1,-1,82
+274,Outsider,INFP,69,94,-1,100,62,-1,-1,-1
+275,Stoner Rock,ISTP,100,-1,92,100,-1,-1,85,-1
+276,Sludge Metal,ISTP,93,-1,100,100,-1,-1,80,-1
+277,Orchestral,INTJ,94,94,88,-1,-1,97,-1,-1
+278,Ska,ENFP,-1,91,-1,97,74,-1,-1,100
+279,Samba,ESFP,-1,-1,-1,95,100,-1,79,95
+280,Slowed + Reverb,INFP,100,94,-1,75,100,-1,-1,-1
+281,EBM,INTP,84,56,100,97,-1,-1,-1,-1
+282,Space rock,INTP,100,100,93,93,-1,-1,-1,-1
+283,Zeuhl,ENTP,-1,100,92,85,-1,-1,-1,69
+284,Folk Metal,INFJ,86,83,-1,-1,86,83,-1,-1
+285,Experimental Rock,INTP,71,98,98,94,-1,-1,-1,-1
+286,Djent,INTP,98,96,94,88,-1,-1,-1,-1
+287,Romanticism,INFP,96,98,-1,94,92,-1,-1,-1
+288,Darksynth,INTP,100,83,100,100,-1,-1,-1,-1
+289,Doomerwave,INTP,100,90,95,95,-1,-1,-1,-1
+290,Alternative R&B,ISFP,93,-1,-1,75,96,-1,71,-1
+291,Blues,ISFP,88,-1,-1,93,92,-1,89,-1
+292,Surf Rock,ESTP,-1,-1,67,100,-1,-1,52,100
+293,Power Electronics,INTJ,83,100,100,-1,-1,100,-1,-1
+294,Chillwave,ISFP,97,-1,-1,100,97,-1,56,-1
+295,Christian Rock,ESFJ,-1,-1,-1,-1,97,87,62,56
+296,Lolicore,ENFP,-1,100,-1,94,50,-1,-1,61
+297,Ethereal Wave,INFJ,100,91,-1,-1,94,84,-1,-1
+298,Deathcore,ISTP,89,-1,94,91,-1,-1,81,-1
+299,Bossa Nova,ISFP,92,-1,-1,91,83,-1,74,-1
+300,Gothic Metal,INFJ,100,96,-1,-1,87,80,-1,-1
+301,European Folk and Neopagan,INTJ,94,91,73,-1,-1,76,-1,-1
+302,R&B and Soul,ISFP,86,-1,-1,82,96,-1,78,-1
+303,Celtic,INFJ,97,95,-1,-1,97,72,-1,-1
+304,Metalcore,ISFP,93,-1,-1,96,92,-1,55,-1
+305,Britpop,ENFP,-1,96,-1,98,89,-1,-1,91
+306,Indie Folk,INFJ,100,96,-1,-1,94,72,-1,-1
+307,Screamo,ISFP,96,-1,-1,96,92,-1,81,-1
+308,Epic Orchestral,INFJ,93,99,-1,-1,81,92,-1,-1
+309,Indie Rock,INFP,91,91,-1,95,87,-1,-1,-1
+310,Industrial,ENTJ,-1,97,98,-1,-1,90,-1,59
+311,Brazilian Funk,ESFP,-1,-1,-1,100,58,-1,100,100
+312,Funk Carioca,ESFP,-1,-1,-1,100,79,-1,100,100
+313,Hardbass,ISTP,79,-1,100,100,-1,-1,97,-1
+314,IDM,INTP,97,99,98,96,-1,-1,-1,-1
+315,Nu Metal,ISFP,79,-1,-1,94,73,-1,82,-1
+316,Ambient,INFJ,99,93,-1,-1,70,90,-1,-1
+317,Wonky,INTP,100,100,100,100,-1,-1,-1,-1
+318,Mellow gold,ISFJ,100,-1,-1,-1,100,100,100,-1
+319,Eclectic,ENFP,-1,100,-1,100,100,-1,-1,100
+320,Funkot,ENFP,-1,100,-1,100,100,-1,-1,100
+321,Jazz Rap,INFJ,100,100,-1,-1,100,100,-1,-1
+322,F minor,INTJ,100,100,100,-1,-1,100,-1,-1
+323,D minor,INTP,100,50,50,100,-1,-1,-1,-1
+324,C sharp / D flat minor,INTJ,100,50,50,-1,-1,50,-1,-1
+325,A sharp / B flat minor,INFJ,100,80,-1,-1,80,80,-1,-1
+326,Spoken Word,INTP,100,100,100,100,-1,-1,-1,-1
+327,Dreamrave,INFP,100,100,-1,100,100,-1,-1,-1
+328,Maidcore,ISFJ,100,-1,-1,-1,75,75,75,-1
+329,Andean Music,INFJ,100,50,-1,-1,100,50,-1,-1
+330,Dementia,ESFP,-1,-1,-1,67,33,-1,33,33
+331,Corporate,ISTJ,100,-1,100,-1,-1,100,100,-1
+332,Cante alentejano,ISTJ,100,-1,100,-1,-1,100,100,-1
+333,Barber beats,INTP,100,100,100,100,-1,-1,-1,-1
+334,Electronic Melodic House,INFP,75,50,-1,75,50,-1,-1,-1
+335,Novelty,ENFP,-1,100,-1,100,100,-1,-1,100
+336,Dark Jazz / Noir Ambient,INTJ,100,100,78,-1,-1,100,-1,-1
+337,Singer/Songwriter,ISFP,89,-1,-1,94,100,-1,61,-1
+338,Rhumba,ESFP,-1,-1,-1,100,100,-1,100,100
+339,Blackened Death Metal,ENTJ,-1,92,100,-1,-1,92,-1,54
+340,Denpa,ENFP,-1,100,-1,100,100,-1,-1,100
+341,Free Improvisation,INTP,80,80,100,100,-1,-1,-1,-1
+342,Drumstep,INTP,89,56,89,100,-1,-1,-1,-1
+343,Plunderphonics,ENTP,-1,100,100,100,-1,-1,-1,100
+344,Experimental,ENTP,-1,100,90,70,-1,-1,-1,60
+345,Choral,ESFJ,-1,-1,-1,-1,83,100,50,50
+346,Cowboy (Western),ISTJ,100,-1,100,-1,-1,100,100,-1
+347,Crossbreed,INFJ,100,100,-1,-1,100,100,-1,-1
+348,E Major,ENFP,-1,100,-1,100,100,-1,-1,100
+349,Q-pop,ESTP,-1,-1,100,100,-1,-1,100,100
+350,Subnopop,ENFP,-1,100,-1,100,100,-1,-1,100
+351,Rap Rock,ESTP,-1,-1,100,100,-1,-1,100,100
+352,Cumbia villera,ESFP,-1,-1,-1,100,83,-1,100,100
+353,Berlin School,INTJ,100,100,100,-1,-1,100,-1,-1
+354,Twee Pop,ISFP,100,-1,-1,100,100,-1,80,-1
+355,Dub Techno,INTJ,100,100,100,-1,-1,100,-1,-1
+356,Acid Jazz,ESFP,-1,-1,-1,100,92,-1,69,69
+357,Mashup,ENTP,-1,92,67,100,-1,-1,-1,92
+358,Sea Shanties,ESTJ,-1,-1,83,-1,-1,83,100,67
+359,Happy Hardcore,ENFP,-1,84,-1,100,95,-1,-1,100
+360,Psychedelic Rock,ENFP,-1,100,-1,95,81,-1,-1,86
+361,Flamenco,ESFJ,-1,-1,-1,-1,79,64,93,93
+362,Mariachi,ENFJ,-1,57,-1,-1,100,64,-1,93
+363,Industrial Metal,ISTP,91,-1,100,59,-1,-1,52,-1
+364,Jangle Pop,INFP,80,100,-1,90,100,-1,-1,-1
+365,Dancehall,ESFP,-1,-1,-1,100,100,-1,90,100
+366,Opera,ENFJ,-1,89,-1,-1,89,97,-1,94
+367,Drift Phonk,ESTP,-1,-1,100,96,-1,-1,91,74
+368,Hookah rap (Кальянный рэп),ESFP,-1,-1,-1,100,75,-1,100,100
+369,War Metal,ENTJ,-1,75,100,-1,-1,67,-1,75
+370,Sertanejo Universitário,ESFJ,-1,-1,-1,-1,100,78,78,100
+371,Throat Singing,ENFP,-1,54,-1,77,54,-1,-1,38
+372,Breakbeat,ENTP,-1,70,100,100,-1,-1,-1,80
+373,Progressive House,ISFP,70,-1,-1,80,70,-1,50,-1
+374,Experimental Hip-Hop,INTP,77,100,85,100,-1,-1,-1,-1
+375,Trap Metal,ISTP,86,-1,86,100,-1,-1,100,-1
+376,Bedroom Pop,ISFP,67,-1,-1,95,95,-1,62,-1
+377,Sovietwave,INTJ,100,93,86,-1,-1,90,-1,-1
+378,Horrorcore,ESTP,-1,-1,95,95,-1,-1,76,81
+379,Post-Hardcore,INFP,97,72,-1,91,78,-1,-1,-1
+380,Bebop,ENTP,-1,96,96,88,-1,-1,-1,100
+381,Country Pop,ESFJ,-1,-1,-1,-1,93,79,100,100
+382,Slacker Rock,ISTP,100,-1,100,100,-1,-1,73,-1
+383,Nintendocore,INTP,80,100,100,100,-1,-1,-1,-1
+384,Big Band,ENFJ,-1,92,-1,-1,85,100,-1,100
+385,Pop Rock,ISFP,85,-1,-1,98,95,-1,95,-1
+386,Electronic,INTP,94,85,96,94,-1,-1,-1,-1
+387,Slam Metal,ESTP,-1,-1,88,100,-1,-1,100,100
+388,Bardcore,INTP,100,78,83,83,-1,-1,-1,-1
+389,Progressive Death Metal,INTP,93,100,87,93,-1,-1,-1,-1
+390,YTPMV,ENTP,-1,100,100,100,-1,-1,-1,100
+391,Riot Grrrl,ESFP,-1,-1,-1,92,88,-1,69,73
+392,Epic and Score,INTJ,76,98,83,-1,-1,93,-1,-1
+393,Funk,ESFP,-1,-1,-1,100,97,-1,66,100
+394,Melodic Death Metal,INFJ,94,100,-1,-1,85,90,-1,-1
+395,Bro Rock/ Butt Rock,ESTP,-1,-1,93,100,-1,-1,100,100
+396,Future Funk,ENFP,-1,80,-1,100,100,-1,-1,90
+397,Progressive Metal,INTP,94,100,94,65,-1,-1,-1,-1
+398,Bubblegum Pop,ENFP,-1,70,-1,98,100,-1,-1,94
+399,Speedcore,ENTP,-1,74,87,100,-1,-1,-1,96
+400,Psytrance,ENFP,-1,100,-1,89,94,-1,-1,78
+401,Electro Swing,ENTP,-1,90,87,98,-1,-1,-1,92
+402,Folk Music,ISFP,100,-1,-1,71,94,-1,65,-1
+403,Power Metal,ENFP,-1,94,-1,75,66,-1,-1,82
+404,Dark Ambient,INTJ,100,100,87,-1,-1,91,-1,-1
+405,Visual Kei,ISFP,98,-1,-1,75,91,-1,51,-1
+406,New Wave,ENFP,-1,96,-1,96,90,-1,-1,90
+407,Harsh Noise,INTJ,86,97,94,-1,-1,71,-1,-1
+408,Dungeon synth,INTJ,100,98,75,-1,-1,86,-1,-1
+409,Indie Pop,ENFP,-1,95,-1,93,95,-1,-1,71
+410,Art Pop,INFP,96,82,-1,99,100,-1,-1,-1
+411,Drone Metal,INTJ,100,95,100,-1,-1,86,-1,-1
+412,Psychedelia,ENFP,-1,96,-1,96,87,-1,-1,54
+413,Symphonic Metal,INFJ,82,97,-1,-1,68,96,-1,-1
+414,Disco Polo,ESFP,-1,-1,-1,83,92,-1,96,100
+415,Eurobeat,ESTP,-1,-1,61,91,-1,-1,61,89
+416,Trance,INFJ,92,97,-1,-1,80,86,-1,-1
+417,8-Bit (Chiptune),INTP,95,98,93,98,-1,-1,-1,-1
+418,Dream Pop,INFP,97,94,-1,99,99,-1,-1,-1
+419,Reggaeton,ESFP,-1,-1,-1,98,65,-1,98,97
+420,Baroque Music,INFJ,95,98,-1,-1,63,86,-1,-1
+421,Hip-Hop,ESTP,-1,-1,83,95,-1,-1,87,91
+422,Flashcore,ENTP,-1,100,100,100,-1,-1,-1,100
+423,Classic Rock,ENFP,-1,71,-1,100,86,-1,-1,86
+424,Alternative Metal,INFP,95,63,-1,89,89,-1,-1,-1
+425,J-Rock,INFP,80,93,-1,93,93,-1,-1,-1
+426,Deep House,ISFP,82,-1,-1,71,65,-1,59,-1
+427,F sharp / G flat minor,INFP,100,100,-1,100,100,-1,-1,-1
+428,Wave Phonk,ISFP,100,-1,-1,100,100,-1,100,-1
+429,Crust Punk,ISTP,91,-1,91,91,-1,-1,73,-1
+430,Neoclassical Darkwave,INTJ,100,100,100,-1,-1,100,-1,-1
+431,Eurodance,ENFP,-1,68,-1,90,94,-1,-1,94
+432,Brostep,ESTP,-1,-1,57,100,-1,-1,93,100
+433,Soundtrack,INTJ,95,95,75,-1,-1,72,-1,-1
+434,Avant-garde,ENTP,-1,99,85,92,-1,-1,-1,51
+435,Pop Punk,ENFP,-1,82,-1,100,96,-1,-1,90
+436,Art Rock,INTP,99,99,62,95,-1,-1,-1,-1
+437,EDM,ESFP,-1,-1,-1,94,68,-1,69,82
+438,Trip Hop,ENTP,-1,74,65,87,-1,-1,-1,35
+439,Witch House,ISFP,100,-1,-1,73,76,-1,52,-1
+440,Synthwave,INTP,92,93,85,89,-1,-1,-1,-1
+441,Hardcore Punk,ENTP,-1,42,77,97,-1,-1,-1,76
+442,Rock,ISTP,77,-1,88,94,-1,-1,83,-1
+443,Drill,ISTP,61,-1,91,97,-1,-1,97,-1
+444,Gothic Rock,INFP,100,95,-1,69,74,-1,-1,-1
+445,Math Rock and Mathcore,INTP,87,100,96,97,-1,-1,-1,-1
+446,Alternative Rock,INFP,95,81,-1,94,85,-1,-1,-1
+447,City Pop,ISFP,97,-1,-1,89,93,-1,75,-1
+448,Rap,ESTP,-1,-1,90,95,-1,-1,83,85
+449,Hyperpop,ENFP,-1,87,-1,98,86,-1,-1,90
+450,K-Pop,ESFP,-1,-1,-1,65,95,-1,76,91
+451,F sharp / G flat Major,ENFJ,-1,100,-1,-1,100,50,-1,50
+452,Scene,ESFP,-1,-1,-1,100,96,-1,87,65
+453,Gospel,ENFJ,-1,53,-1,-1,100,98,-1,94
+454,Hardstyle,ESTP,-1,-1,72,88,-1,-1,72,96
+455,Thrash Metal,ESTP,-1,-1,93,98,-1,-1,93,90
+456,Symphonic Death Metal,ENTJ,-1,90,80,-1,-1,80,-1,70
+457,No Wave,INTP,100,100,100,100,-1,-1,-1,-1
+458,Techno,ENTP,-1,76,98,86,-1,-1,-1,59
+459,Vocaloid,INFP,95,93,-1,75,81,-1,-1,-1
+460,Trap,ESTP,-1,-1,78,98,-1,-1,95,89
+461,Doom Metal,INTP,98,99,81,89,-1,-1,-1,-1
+462,Country,ESFJ,-1,-1,-1,-1,91,91,96,59
+463,Midwest Emo,INFP,91,72,-1,98,91,-1,-1,-1
+464,Drum and Bass,ISTP,94,-1,97,96,-1,-1,55,-1
+465,Vaporwave,INFP,93,72,-1,96,79,-1,-1,-1
+466,Patriotic,ESTJ,-1,-1,100,-1,-1,67,100,100
+467,Shadow Rap,INTP,100,56,100,89,-1,-1,-1,-1
+468,Memphis Rap,ISTP,100,-1,100,85,-1,-1,92,-1
+469,Grindcore,ESTP,-1,-1,91,91,-1,-1,56,76
+470,Technical Death Metal,ENTJ,-1,100,100,-1,-1,71,-1,62
+471,Heavy Metal,ESTP,-1,-1,95,90,-1,-1,57,81
+472,Dubstep,ISTP,49,-1,71,98,-1,-1,65,-1
+473,Post-Rock,INTP,96,100,57,82,-1,-1,-1,-1
+474,Death Metal,ISTP,53,-1,97,90,-1,-1,57,-1
+475,Shoegaze (Shoegazing),INFP,100,87,-1,97,91,-1,-1,-1
+476,Punk Rock,ISTP,53,-1,81,97,-1,-1,55,-1
+477,Nightcore,INFP,76,55,-1,98,92,-1,-1,-1
+478,Incelcore,INTP,95,75,57,85,-1,-1,-1,-1
+479,Progressive Rock,INTP,95,99,91,72,-1,-1,-1,-1
+480,Jazz,ENTP,-1,86,75,89,-1,-1,-1,75
+481,Grunge,INFP,98,54,-1,96,65,-1,-1,-1
+482,Black Metal,INTJ,96,75,90,-1,-1,65,-1,-1
+483,Lo-Fi,INFP,95,64,-1,83,91,-1,-1,-1
+484,Depressive Black Metal,INTP,98,98,82,62,-1,-1,-1,-1
+485,J-Pop,INFP,57,85,-1,94,92,-1,-1,-1
+486,Post-Punk,INTP,98,93,54,95,-1,-1,-1,-1
+487,Breakcore,ENTP,-1,98,90,97,-1,-1,-1,72
+488,Emo,ISFP,99,-1,-1,96,95,-1,52,-1
+489,Phonk,ISTP,65,-1,97,91,-1,-1,87,-1
+490,Classical,INTJ,97,55,94,-1,-1,96,-1,-1

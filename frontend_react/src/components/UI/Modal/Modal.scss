@@ -1,0 +1,11 @@
+.modal {
+	position: absolute;
+	background-color: white;
+	top: 40px;
+	left: -16px;
+	display: flex;
+	flex-direction: column;
+	border-radius: 18px;
+	padding: 0.1rem 0.3rem;
+	z-index: 1000;
+}
