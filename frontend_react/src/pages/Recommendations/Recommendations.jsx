@@ -1,10 +1,6 @@
 import React, { useEffect, useState } from "react";
-import { images } from "../../assets";
 import GoBackButton from "../../components/UI/GoBackButton/GoBackButton";
-import MyButton from "../../components/UI/Button/MyButton";
-import SpecialtyBlock from "../../components/SpecialtyBlock/SpecialtyBlock";
 import "./Recommendations.scss";
-import { specialties } from "../../assets";
 import { motion } from "framer-motion";
 import { useParams } from "react-router-dom";
 import axios from "axios";

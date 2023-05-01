@@ -1,15 +1,11 @@
 import React, { useState } from "react";
 import "./Modal.scss";
-import { MdDone } from "react-icons/md";
 import Options from "../Options.jsx/Options";
 import { motion } from "framer-motion";
 const Modal = () => {
 	const languages = ["EN", "RU", "KZ"];
 	const [activeIndex, setActiveIndex] = useState(0);
-	const handleChangeLanguage = (index) => {
-		setActiveIndex((state) => index);
-		console.log(activeIndex);
-	};
+
 	return (
 		<motion.div
 			whileInView={{ y: [-40, 0] }}

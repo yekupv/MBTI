@@ -1,4 +1,4 @@
-import React, { useState, useReducer, useEffect } from "react";
+import React, { useReducer } from "react";
 import GoBackButton from "../../components/UI/GoBackButton/GoBackButton";
 import MyButton from "../../components/UI/Button/MyButton";
 import { useNavigate } from "react-router-dom";
@@ -11,16 +11,6 @@ import {
 import "./ChoosePersonality.scss";
 import PersonalityBlockList from "../../components/PersonalityBlockList/PersonalityBlockList";
 const ChoosePersonality = () => {
-	const scaleVariants = {
-		whileInView: {
-			scale: [0, 1],
-			opacity: [0, 1],
-			transition: {
-				duration: 1,
-				ease: "easeInOut",
-			},
-		},
-	};
 	const navigate = useNavigate();
 	const [activeIndex, dispatch] = useReducer(activeReducer, 0);
 

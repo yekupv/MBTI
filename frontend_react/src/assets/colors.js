@@ -1,4 +1,3 @@
-import { keyword } from "color-convert";
 const stringColor = `Caribbean blue
 Tomato
 Octarine
@@ -273,8 +272,6 @@ Yellow
 Black
 Blue
 `;
-
-const colorNames = stringColor.split("\n");
 
 export const colors = stringColor.split("\n").sort();
 

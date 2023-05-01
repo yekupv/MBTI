@@ -2,12 +2,9 @@ import React, { useState } from "react";
 import { MdLanguage } from "react-icons/md";
 import "./Navbar.scss";
 import { Link } from "react-router-dom";
-import { IconContext } from "react-icons/lib";
-import { IoIosAdd } from "react-icons/io";
 import Modal from "../UI/Modal/Modal";
 
 const Navbar = () => {
-	const [iconColor, setIconColor] = useState("#524A65");
 	const [isActive, setIsActive] = useState(false);
 	const primaryIconColor = "#E171B8";
 	const hoverIconColor = "#524A65";

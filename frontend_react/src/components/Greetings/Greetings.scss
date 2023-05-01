@@ -53,17 +53,13 @@
 		padding: 1.3rem;
 		font-size: 1.2rem;
 	}
-	a {
+
+	.greetings__buttons--secondary {
 		cursor: pointer;
 
 		color: var(--text-color);
 		font-size: 1.2rem;
 		text-decoration: none;
-	}
-
-	.greetings__buttons--primary {
-	}
-	.greetings__buttons--secondary {
 		transition: all 0.3s ease-in-out;
 		font-weight: bold;
 		&:hover {

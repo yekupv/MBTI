@@ -1,6 +1,5 @@
 import React, { useContext } from "react";
 import Card from "../UI/Card/Card";
-import { images, Analysts } from "../../assets";
 import "./PersonalityBlock.scss";
 import { motion } from "framer-motion";
 

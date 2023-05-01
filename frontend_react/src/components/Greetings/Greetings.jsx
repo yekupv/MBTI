@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import MyButton from "../UI/Button/MyButton";
 import "./Greetings.scss";
 import { useNavigate } from "react-router-dom";
@@ -25,7 +24,7 @@ const Greetings = () => {
 				>
 					Choose Personality
 				</MyButton>
-				<a
+				<div
 					className='greetings__buttons--secondary'
 					// href='https://www.16personalities.com/'
 					// target='_blank'
@@ -34,7 +33,7 @@ const Greetings = () => {
 					}}
 				>
 					Take the Test →
-				</a>
+				</div>
 			</div>
 		</motion.div>
 	);
