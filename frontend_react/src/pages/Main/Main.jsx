@@ -5,6 +5,7 @@ import { images } from "../../assets";
 import { motion } from "framer-motion";
 
 const Main = () => {
+	//renders animated div with some images and greetings component
 	return (
 		<motion.div
 			whileInView={{ opacity: [0, 1] }}

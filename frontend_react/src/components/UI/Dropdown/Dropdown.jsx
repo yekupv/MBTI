@@ -11,11 +11,11 @@ const Dropdown = ({
 	inputChangeHandler,
 	label = "color",
 }) => {
-	const [visible, setVisible] = useState(false);
-	const [filteredData, setFilteredData] = useState(data);
-	const debounced = useDebounce(search);
+	const [visible, setVisible] = useState(false); //state to show dropdown list
+	const [filteredData, setFilteredData] = useState(data); //filtered data based on users input
+	const debounced = useDebounce(search); //debounce hook to timeout input value so filtering is not called everytime user changes input(perfomance tip)
 	const dropdownRef = useRef(null);
-
+	// setfiltered data filter data based on inputs value
 	useEffect(() => {
 		setFilteredData(
 			data.filter((entry) => {
@@ -25,8 +25,8 @@ const Dropdown = ({
 					.includes(search.toLowerCase());
 			})
 		);
-	}, [debounced]);
-
+	}, [debounced]); //dependency array to optimize perfomance
+	//sets dropdown list to false if user clicked somewhere outside list
 	useEffect(() => {
 		const handleClickOutside = (event) => {
 			if (
@@ -41,7 +41,7 @@ const Dropdown = ({
 			document.removeEventListener("mousedown", handleClickOutside);
 		};
 	}, [dropdownRef]);
-
+	//renders input component and dropdown list
 	return (
 		<div className='dropdown' ref={dropdownRef}>
 			<h4>{label}</h4>

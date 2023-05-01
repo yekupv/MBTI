@@ -12,6 +12,7 @@ const Card = ({
 
 	...props
 }) => {
+	//renders a card with condional classnames, and onclick dispatches activeIndex state in parent comonent
 	return (
 		<motion.div
 			whileInView={{ opacity: [0, 1] }}

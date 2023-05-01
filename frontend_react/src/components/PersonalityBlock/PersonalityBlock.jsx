@@ -9,8 +9,11 @@ import {
 } from "../../context/ActiveIndexContext";
 
 const PersonalityBlock = ({ title, cards, interactive, ...props }) => {
-	const activeIndex = useContext(ActiveIndexContext);
-	const dispatch = useContext(ActiveIndexDispatchContext);
+	//takes as props title, array of cards to display, and interactive boolean which is provided to card
+	const activeIndex = useContext(ActiveIndexContext); // takes activeIndex state from context
+	const dispatch = useContext(ActiveIndexDispatchContext); // take dispatch action from context
+
+	//renders animated div with title and mapping through cards array to render card component
 	return (
 		<motion.div
 			whileInView={{ y: [-100, 0], opacity: [0, 1] }}

@@ -10,12 +10,13 @@ import PersonalityBlock from "../../components/PersonalityBlock/PersonalityBlock
 import RecommendationList from "../../components/RecommendationList/ReccomendationList";
 
 const Recommendations = () => {
-	const { options } = useParams();
-	const [recommendations, setRecommendations] = useState({});
-	const [cards, setCards] = useState([]);
-	const [isLoading, setIsLoading] = useState(false);
-	const isPersonalityType = options.length > 1 ? false : true;
-	const [color, music] = options.split("--");
+	const { options } = useParams(); // takes parameters from url
+	const [recommendations, setRecommendations] = useState({}); //state to store response data from api
+	const [cards, setCards] = useState([]); //state to store cards array from response
+	const [isLoading, setIsLoading] = useState(false); // loading state
+	const isPersonalityType = options.length > 1 ? false : true; // determines from where navigation was from, if parameters length is equal to 1 that means that navigation was from choose-personality page
+	const [color, music] = options.split("--"); //splits given parameters by -- to two variables
+	//fetches data from api, if was navigated from choose personality page post to get_jobs_by_type route, if navigation was from test page post request is send to get_jobs route
 	const fetchData = async () => {
 		try {
 			setIsLoading(true);
@@ -51,10 +52,13 @@ const Recommendations = () => {
 			setIsLoading(false);
 		}
 	};
+	//fetches data on initial render
 	useEffect(() => {
 		fetchData();
 	}, []);
 
+	//if data was fetched renders motion div with gobackbutton compoennt, and if ispersonality type is true render presonality block componet using as a cards array cards state from response
+	//and recommendationList component  with recommendations props from response data. if data is still fetching renders loading spinner to indicate loading
 	return (
 		<>
 			{!isLoading ? (

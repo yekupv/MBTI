@@ -12,8 +12,9 @@ import "./ChoosePersonality.scss";
 import PersonalityBlockList from "../../components/PersonalityBlockList/PersonalityBlockList";
 const ChoosePersonality = () => {
 	const navigate = useNavigate();
-	const [activeIndex, dispatch] = useReducer(activeReducer, 0);
-
+	const [activeIndex, dispatch] = useReducer(activeReducer, 0); // initiales activeIndex state which can be changed using dispatch fuction, as activeReduces is a reducer that dispatches staet and 0 is initial value for state
+	// provides value for ActiveINdexContext value as activeIndex and same for dispatchcontext
+	//renders animated div with gobackbutton compoennt myButton component which navigates
 	return (
 		<ActiveIndexContext.Provider value={activeIndex}>
 			<ActiveIndexDispatchContext.Provider value={dispatch}>

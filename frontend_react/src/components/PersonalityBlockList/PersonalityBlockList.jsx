@@ -2,6 +2,7 @@ import React from "react";
 import PersonalityBlock from "../PersonalityBlock/PersonalityBlock";
 import { Analysts, Diplomats, Sentinels, Explorers } from "../../assets";
 const PersonalityBlockList = () => {
+	//renders 4 personalityBlock
 	return (
 		<div>
 			<PersonalityBlock

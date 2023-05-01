@@ -4,7 +4,8 @@ import "./Greetings.scss";
 import { useNavigate } from "react-router-dom";
 import { motion } from "framer-motion";
 const Greetings = () => {
-	const nav = useNavigate();
+	const nav = useNavigate(); //to navigate to different pages
+	//renders animated div with 2 h tags and div with Mybutton component and div that navigates to /test page
 	return (
 		<motion.div
 			whileInView={{ x: [-300, 0], opacity: [0, 1] }}
@@ -20,17 +21,15 @@ const Greetings = () => {
 				<MyButton
 					onClick={() => {
 						nav("/choose-personality");
-					}}
+					}} //navigates to /choose-personality page when div is clicked
 				>
 					Choose Personality
 				</MyButton>
 				<div
 					className='greetings__buttons--secondary'
-					// href='https://www.16personalities.com/'
-					// target='_blank'
 					onClick={() => {
 						nav("/test");
-					}}
+					}} //navigates to /test page when div is clicked
 				>
 					Take the Test →
 				</div>

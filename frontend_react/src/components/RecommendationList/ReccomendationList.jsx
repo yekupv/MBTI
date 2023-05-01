@@ -1,6 +1,7 @@
 import React from "react";
 import "./RecommendationList.scss";
 const RecommendationList = ({ recommendations }) => {
+	//takes as a prop recommendation object from parent component api response and renders all information from that response if there is any
 	return (
 		<div className='recommendation-list'>
 			{recommendations.color_rec && (
