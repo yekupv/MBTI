@@ -26,7 +26,7 @@ const Recommendations = () => {
 			if (isPersonalityType) {
 				const type = getCardTitlebyId(options);
 				const response = await axios.post(
-					`http://127.0.0.1:5000/get_jobs?type=${encodeURIComponent(
+					`http://127.0.0.1:5000/get_jobs_by_type?type=${encodeURIComponent(
 						type
 					)}`
 				);
