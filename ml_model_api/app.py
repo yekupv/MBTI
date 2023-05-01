@@ -57,4 +57,4 @@ def job_rec_by_type():
     json_output = model.runByType(type_pars)
     return json.dumps(json_output)
 
-app.run()
+
