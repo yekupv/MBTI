@@ -14,7 +14,7 @@ const Recommendations = () => {
 	const [recommendations, setRecommendations] = useState({}); //state to store response data from api
 	const [cards, setCards] = useState([]); //state to store cards array from response
 	const [isLoading, setIsLoading] = useState(false); // loading state
-	const isPersonalityType = options.length > 1 ? false : true; // determines from where navigation was from, if parameters length is equal to 1 that means that navigation was from choose-personality page
+	const isPersonalityType = options.length > 2 ? false : true; // determines from where navigation was from, if parameters length is equal to 2 that means that navigation was from choose-personality page
 	const [color, music] = options.split("--"); //splits given parameters by -- to two variables
 	//fetches data from api, if was navigated from choose personality page post to get_jobs_by_type route, if navigation was from test page post request is send to get_jobs route
 	const fetchData = async () => {
